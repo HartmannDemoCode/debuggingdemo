@@ -5,7 +5,7 @@ package dk.ek.exercises;
  * 1. Create a junit test for this class
  * 2. Setup a test that asserts false for the ex1 method call
  * 3. Set appropriate breakpoint(s)
- * 3. Run the debugger and find out why ex1 is not producing 'false'
+ * 3. Run the debugger from inside the test and find out why ex1 is not producing 'false'
  */
 public class Ex01BankAccount {
 
